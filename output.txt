@@ -1,0 +1,10 @@
+Enter how tall you want the tower of Hanoi to be: 
+For 3 tall, it will require 7 move(s) to move the tower
+Enter how tall you want the tower of Hanoi to be: 
+For 5 tall, it will require 31 move(s) to move the tower
+Enter how tall you want the tower of Hanoi to be: 
+For 8 tall, it will require 255 move(s) to move the tower
+Enter how tall you want the tower of Hanoi to be: 
+For 14 tall, it will require 16383 move(s) to move the tower
+Enter how tall you want the tower of Hanoi to be: 
+For 30 tall, it will require 1073741823 move(s) to move the tower
